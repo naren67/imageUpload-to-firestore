@@ -1,0 +1,14 @@
+.imageArea{
+          width: 500px;
+          margin-top: 20px;
+          display: inline-block;
+          margin: 50px;
+          border: 1px solid lightgray;
+          padding: 10px;
+          border-radius: 10px;
+}
+
+.imageArea img{
+          width: 100%;
+          border-radius: 10px;
+}
